@@ -1,0 +1,78 @@
+body{
+		background-color: #ffecb3;
+		font-size: 30px;
+		font-family: 'Comfortaa', cursive;
+	}
+
+#column_container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+#header {
+    position: absolute; 
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background: #cc0000;
+    text-align: center;
+}
+
+#wrapper {
+    margin: 50px;
+    width: 1280px;
+}
+
+#column1 {
+    float: left;
+    background - image: url("../img/gray.png");
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    height: 475px;
+    width: 400px;
+}
+
+#column2 {
+    float: left;
+    color: #333;
+    border: 1px solid # ccc;
+    background: #F2F2E6;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    height: 475px;
+    width: 600px;
+    display: inline;
+    position: relative;
+    font-size: 20px;
+}
+
+#column1_games {
+    float: left;
+    background - image: url("../img/gray.png");
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+}
+
+#column2_games {
+    float: left;
+    color: #333;
+    border: 1px solid # ccc;
+    background: #F2F2E6;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    height: 400px;
+    width: 600px;
+    display: inline;
+    position: relative;
+    font-size: 20px;
+}
+
+a img:hover:not([href^="Pics/twitter.png"]) {
+		height: 30%;
+		width: 30%;
+
+}
+
