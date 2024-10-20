@@ -71,14 +71,14 @@ body{
 }
 
 #column3 {
-    float: left;
+    float: center;
     color: #333;
     border: 1px solid # ccc;
     background: #F2F2E6;
     margin: 10px 0px 10px 0px;
     padding: 10px;
     height: 400px;
-    width: 800px;
+    width: 600px;
     display: inline;
     position: relative;
     font-size: 30px;
