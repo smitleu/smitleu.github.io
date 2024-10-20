@@ -71,7 +71,7 @@ body{
 }
 
 #column3 {
-    float: center;
+    float: left;
     color: #333;
     border: 1px solid # ccc;
     background: #F2F2E6;
