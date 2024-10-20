@@ -84,9 +84,9 @@ body{
     font-size: 30px;
 }
 
-a img:hover:not([href^="Pics/twitter.png"]) {
-		height: 10%;
-		width: 10%;
-
+img:hover,
+img:focus{
+  width:20%;
+  height: 20%;
 }
 
