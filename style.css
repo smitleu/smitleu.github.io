@@ -82,6 +82,7 @@ body{
     display: inline;
     position: relative;
     font-size: 30px;
+	text-align: center;
 }
 
 /* img:hover,
