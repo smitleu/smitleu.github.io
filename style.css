@@ -72,12 +72,12 @@ body{
 
 #column3 {
     float: left;
-    color: #333;
+    /*color: #333;*/
     border: 1px solid # ccc;
     margin: 10px 0px 10px 0px;
     padding: 10px;
-    height: 400px;
-    width: 800px;
+    /*height: 400px;
+    width: 800px;*/
     display: inline;
     position: relative;
     font-size: 30px;
